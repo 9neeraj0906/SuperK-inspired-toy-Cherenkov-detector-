@@ -1,0 +1,60 @@
+============================================================
+LOCAL CHERENKOV CHI2 ANALYSIS
+============================================================
+
+Event: 565
+
+Fixed vertex:
+(0.0, 0.0, 5.0) cm
+
+Expected Cherenkov angle:
+40.0575 deg
+
+Angular sigma:
+4.00 deg
+
+Detected PMT hits:
+256
+
+Local map:
+±12.0 deg
+Step: 0.10 deg
+
+------------------------------------------------------------
+CHI2 RESULTS
+------------------------------------------------------------
+
+Local minimum chi2:
+3690.9679
+
+True-direction chi2:
+3820.3821
+
+Hough-direction chi2:
+4033.0644
+
+------------------------------------------------------------
+CHI2 MINIMUM RELATIVE TO TRUE DIRECTION
+------------------------------------------------------------
+
+dx = -0.500 deg
+dy = -3.900 deg
+
+Angular distance:
+3.932 deg
+
+------------------------------------------------------------
+RECONSTRUCTION COMPARISON
+------------------------------------------------------------
+
+Hough error relative to true direction:
+6.735 deg
+
+Hough vs chi2 minimum:
+6.097 deg
+
+True Δchi2:
+129.4142
+
+Hough Δchi2:
+342.0966
