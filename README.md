@@ -167,4 +167,3 @@ Shows the detector, PMT positions, Geant4 PMT hits, true and reconstructed muon 
 
 ---
 
-<p align="center"><i>Author: <b>Your Name</b> · <a href="mailto:you@email.com">you@email.com</a> · <a href="https://github.com/your-username">GitHub</a></i></p>
