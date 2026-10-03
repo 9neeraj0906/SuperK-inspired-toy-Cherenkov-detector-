@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Geant4-11.4.2-blue" alt="Geant4">
   <img src="https://img.shields.io/badge/Python-3.12-yellow" alt="Python">
-  <img src="https://img.shields.io/badge/C%2B%2B-pybind11-orange" alt="C++/pybind11">
+
   <img src="https://img.shields.io/badge/status-toy%20model-lightgrey" alt="Toy model">
 </p>
 
