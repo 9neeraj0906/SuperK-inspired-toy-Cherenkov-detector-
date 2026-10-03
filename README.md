@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="docs/event_565_3d.png" width="600" alt="3D event display: detector, PMT hits, true and reconstructed muon direction, Cherenkov cone">
+  <img src="Result/event_3d_display.png" width="600" alt="3D event display: detector, PMT hits, true and reconstructed muon direction, Cherenkov cone">
 </p>
 
 > **Scope:** a learning and development project, **not** a realistic Super-Kamiokande simulation. The neutrino interaction is a toy model, and the numbers below describe this simplified setup only.
